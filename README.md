@@ -1,2 +1,3 @@
-# django-poll-app
-Django Tutorial App
+# Django Tutorial Polls App
+
+Making Polls App from Django Tutorial
